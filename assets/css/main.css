@@ -2317,6 +2317,10 @@ ul.timeline > li:before {
 	.top-cert{
 		display: block !important;
 	}
+
+	.proj_img{
+		margin-bottom: 10px !important;
+	}
 }
 
 .icon-links{
@@ -2531,15 +2535,18 @@ ul.timeline > li:before {
 	width: 23%;
 }
 
+.ulpadd{
+	padding-left: 1rem;
+}
 
-@media (min-width: 1680px){
+/*@media (min-width: 1680px){
 	
-/*	.link_proj{
+	.link_proj{
 		width: 140px !important;
 		height: 50px !important;
 
-	}*/
+	}
 	.contri{
 		font-size: 20px !important;
 	}
-}
+}*/
