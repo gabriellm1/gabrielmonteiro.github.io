@@ -2266,6 +2266,7 @@ ul.timeline > li:before {
 	display: -webkit-box;
 	display: -ms-flexbox;
 	/*display: flex;*/
+	padding-left: 0 !important;
 	-webkit-box-pack: center;
 	    -ms-flex-pack: center;
 	        justify-content: center;
